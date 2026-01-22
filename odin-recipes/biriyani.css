@@ -1,0 +1,55 @@
+body{
+    background-color: azure;
+    font-family: serif;
+}
+
+.homeButton{
+    background-color: aqua;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 12px;
+}
+
+.biriHeading{
+    font-family: Georgia;
+    font-size: 32px;
+    margin-left: 30px;
+}
+
+.biriimage{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.text{
+    margin-left: 32px;
+}
+
+.ingHeanding{
+     font-family: Georgia;
+    font-size: 32px;
+    margin-left: 30px;
+}
+
+.list{
+    margin-left: 35px;
+}
+
+.inglist{
+    margin-top: 5px;
+}
+
+.steps{
+    font-family: Georgia;
+    font-size: 32px;
+    margin-left: 30px;
+}
+
+.cookingSteps{
+     margin-left: 35px;
+}
+
+.stepsList{
+     margin-top: 10px;
+}
